@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class InfController {
     @RequestMapping("/init")
     public String login(){
-        return "你是蔡徐坤";
+        return "你是蔡徐坤吧,1222";
     }
 }
